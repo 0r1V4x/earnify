@@ -1,0 +1,9 @@
+
+{
+  "name": "Earnify.1.user app",
+  "description": "A high-performance rewards and earning application where users can earn coins by watching videos, completing tasks, spinning the wheel, and inviting friends. Features a robust wallet system for withdrawals and comprehensive profile management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
